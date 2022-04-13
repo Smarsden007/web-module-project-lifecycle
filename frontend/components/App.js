@@ -25,7 +25,7 @@ export default class App extends React.Component {
           completed: false
         },
         {
-          task: 'Laundry',
+          task: 'laundry',
           id: 1528817084358,
           completed: false
         },
